@@ -1,4 +1,4 @@
-Project Title: Interactive Vehicle Dashboard and Event Logger with PIC18F4580 Microcontroller
+Car Black box
 
 Project Overview:
 Developed an interactive vehicle dashboard and event logging system using the PIC18F4580 microcontroller. The project involves storing initial values in the internal EEPROM and executing the main program to create an interface via an on-board CLCD screen. This system provides real-time vehicle information and logs various events, enhancing the user experience with a secure and interactive interface.
